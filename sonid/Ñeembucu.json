@@ -1,8 +1,8 @@
 [ 
-{"url":"MATE/1 MATE.wav","type":"audio","bank":"Mate","n":0},
+{"url":"MATE/1MATE.wav","type":"audio","bank":"Mate","n":0},
 {"url":"TEROTERO/TEROTERO.wav","type":"audio","bank":"TEROTERO","n":0},
-{"url":"Mate/2 MATE.wav","type":"audio","bank":"Mate","n":0},
-{"url":"GARSA/GARSA M.wav","type":"audio","bank":"GARSA","n":0},
+{"url":"Mate/2MATE.wav","type":"audio","bank":"Mate","n":0},
+{"url":"GARSA/GarsaM.wav","type":"audio","bank":"GARSA","n":0},
 {"url":"SUIVIVI/SUIVIVI.wav","type":"audio","bank":"SUIVIVI","n":0},
 {"url":"RAMAS/RAMAS.wav","type":"audio","bank":"RAMAS","n":0}
 ] 
